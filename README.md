@@ -10,8 +10,7 @@ button on the right side of page to download.
 <BR><BR>
 ![image](https://github.com/inwtx/QuailHatcherySchedule/assets/32821617/260fc68a-4356-4874-9d6d-95544a536f87)
 <BR><BR>
-![image](https://github.com/inwtx/QuailHatcherySchedule/assets/32821617/9e7fddb1-06d5-423c-9908-cfeb908c65ff)
-
+![image](https://github.com/inwtx/QuailHatcherySchedule/assets/32821617/053bedd8-5eac-4816-8171-191fc635297b)
 
 
 <BR>
