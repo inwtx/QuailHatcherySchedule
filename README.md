@@ -1,4 +1,4 @@
-# Quail Hatchery Schedule  v2.05
+# Quail Hatchery Schedule  v2.06
 Windows program to keep track of Coturnix or Bobwhite Quail egg hatchery.<BR>
 Multiple occurrences of program can be run at same time.   
 Source code included in zip files.<BR>
